@@ -21,12 +21,12 @@ This repository contains everything about Terraform, including:
 
   > Here, the cloud provider is like the house, and the servers and databases are like the rooms and materials.  
 
-- Simply put, Terraform is an **IaC tool** developed by HashiCorp for creating and managing infrastructure on cloud providers like AWS, Azure, and GCP.  
+- Simply but, Terraform is an **IaC tool** developed by HashiCorp for creating and managing infrastructure on cloud providers like AWS, Azure, and GCP.  
 
 ## Why Do We Use Terraform?  
 
 - **Before Terraform:**  
-  - To create resources like EC2 instances or S3 buckets on AWS, we used to:  
+  - To create resources like EC2 instances or S3 buckets or any other resources on any cloud provider like (AWS, Azure, GCP) let's take AWS,  we used to:  
     - Log into AWS and manually create the resources.  
     - Use AWS CLI to connect and manage the instances using their public IP addresses.  
   - This approach was similar for other providers like Azure and GCP.  
